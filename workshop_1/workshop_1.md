@@ -1,4 +1,4 @@
-# Виконав: Погоня Андрій Ігорович Група: ІПЗ-2.03
+# Виконав: Погоня Андрій Ігорович, Група: ІПЗ-2.03
 
 
 # Orig зображення:
@@ -10,7 +10,7 @@
 |Розмір Снимок%20экрана%202025-03-09%20171532|2,34 МБ|1,33 МБ|
 
 
-## Original Зоображення до переробки:
+# Original Зоображення до переробки:
 ### Original 001(orig).jpg
 ![Orig JPG](images/orig/001(orig).jpg)
 
@@ -30,7 +30,7 @@
 ![Orig PNG](images/orig/Снимок%20экрана%202025-03-09%20171532(orig).png)
 
 
-## Orig зображення після переробки по завданню(Стиснення без втрати якості (lossless)):
+# Orig зображення після переробки по завданню(Стиснення без втрати якості (lossless)):
 | |Png|Webp|
 |---|---|---|
 |Формат|.png|.webp|
@@ -38,6 +38,8 @@
 |zima_noch_gory_79420_1920x1200png(lossless)|4,37 МБ|2,7 МБ|
 |Снимок экрана 2025-03-09 171532png(lossless)|2,34 МБ|1,36 МБ|
 
+
+# Зображення після переробки по завданню:
 ### 001png(lossless).png
 ![](images/lossless/PNG/001png(lossless).png)
 
@@ -60,7 +62,7 @@
 Використання стиснення без втрат (PNG, WebP lossless) дозволяє зберегти оригінальну якість зображень, проте зменшення ваги файлу може бути незначним. 
 
 
-## Orig зображення після переробки по завданню(Стиснення з втратою якості (lossy)):
+# Orig зображення після переробки по завданню(Стиснення з втратою якості (lossy)):
 | |Png|Webp|MozJPEG|
 |---|---|---|---|
 |Формат|.avif|.webp|.jpg|
@@ -76,67 +78,144 @@
 |Снимок экрана 2025-03-09 171532(lossy75%)|110 КБ|63,3 КБ|98,4 КБ|
 |Снимок экрана 2025-03-09 171532(lossy100%)|694 КБ|477 КБ|1,11 МБ|
 
+
+# Зображення після переробки по завданню:
+# AVIF:
 ### 001avif(lossy50%).avif
-![](images/lossy/AVIF/001avif(lossy50%).avif)
+![](images/lossy/AVIF/001avif(lossy50).avif)
 
 ### 001avif(lossy75%).avif
-![](images/lossy/AVIF/001avif(lossy75%).avif)
+![](images/lossy/AVIF/001avif(lossy75).avif)
 
 ### 001avif(lossy100%).avif
-![](images/lossy/AVIF/001avif(lossy100%).avif)
+![](images/lossy/AVIF/001avif(lossy100).avif)
 
-### 001png(lossless).png
+### zima_noch_gory_79420_1920x1200avif(lossy50%).avif
+![](images/lossy/AVIF/zima_noch_gory_79420_1920x1200avif(lossy50).avif)
 
-### 001png(lossless).png
+### zima_noch_gory_79420_1920x1200avif(lossy75%).avif
+![](images/lossy/AVIF/zima_noch_gory_79420_1920x1200avif(lossy75).avif)
 
-### 001png(lossless).png
+### zima_noch_gory_79420_1920x1200avif(lossy100%).avif
+![](images/lossy/AVIF/zima_noch_gory_79420_1920x1200avif(lossy100).avif)
 
-### 001png(lossless).png
+### Снимок%20экрана%202025-03-09%20171532avif(lossy50%).avif
+![](images/lossy/AVIF/Снимок%20экрана%202025-03-09%20171532avif(lossy50).avif)
 
-### 001png(lossless).png
+### Снимок%20экрана%202025-03-09%20171532avif(lossy75%).avif
+![](images/lossy/AVIF/Снимок%20экрана%202025-03-09%20171532avif(lossy75).avif)
 
-### 001png(lossless).png
-
-### 001png(lossless).png
-
-### 001png(lossless).png
-
-### 001png(lossless).png
-
-### 001png(lossless).png
-
-### 001png(lossless).png
-
-### 001png(lossless).png
-
-### 001png(lossless).png
-
-### 001png(lossless).png
-
-### 001png(lossless).png
-
-### 001png(lossless).png
-
-### 001png(lossless).png
-
-### 001png(lossless).png
-
-### 001png(lossless).png
-
-### 001png(lossless).png
-
-### 001png(lossless).png
-
-### 001png(lossless).png
-
-### 001png(lossless).png
+### Снимок%20экрана%202025-03-09%20171532avif(lossy100%).avif
+![](images/lossy/AVIF/Снимок%20экрана%202025-03-09%20171532avif(lossy100).avif)
 
 
+# MozJPEG:
+### 001MozJPEG(lossy50%).jpg
+![](images/lossy/MozJPEG/001MozJPEG(lossy50).jpg)
+
+### 001MozJPEG(lossy75%).jpg
+![](images/lossy/MozJPEG/001MozJPEG(lossy75).jpg)
+
+### 001MozJPEG(lossy100%).jpg
+![](images/lossy/MozJPEG/001MozJPEG(lossy100).jpg)
+
+### zima_noch_gory_79420_1920x1200MozJPEG(lossy50%).jpg
+![](images/lossy/MozJPEG/zima_noch_gory_79420_1920x1200MozJPEG(lossy50).jpg)
+
+### zima_noch_gory_79420_1920x1200MozJPEG(lossy75%).jpg
+![](images/lossy/MozJPEG/zima_noch_gory_79420_1920x1200MozJPEG(lossy75).jpg)
+
+### zima_noch_gory_79420_1920x1200MozJPEG(lossy100%).jpg
+![](images/lossy/MozJPEG/zima_noch_gory_79420_1920x1200MozJPEG(lossy100).jpg)
+
+### Снимок%20экрана%202025-03-09%20171532MozJPEG(lossy50%).jpg
+![](images/lossy/MozJPEG/Снимок%20экрана%202025-03-09%20171532MozJPEG(lossy50).jpg)
+
+### Снимок%20экрана%202025-03-09%20171532MozJPEG(lossy75%).jpg
+![](images/lossy/MozJPEG/Снимок%20экрана%202025-03-09%20171532MozJPEG(lossy75).jpg)
+
+### Снимок%20экрана%202025-03-09%20171532MozJPEG(lossy100%).jpg
+![](images/lossy/MozJPEG/Снимок%20экрана%202025-03-09%20171532MozJPEG(lossy100).jpg)
 
 
+# Webp:
+### 001webp(lossy50%).webp
+![](images/lossy/Webp/001webp(lossy50).webp)
+
+### 001webp(lossy75%).webp
+![](images/lossy/Webp/001webp(lossy75).webp)
+
+### 001webp(lossy100%).webp
+![](images/lossy/Webp/001webp(lossy100).webp)
+
+### images/lossy/Webp/zima_noch_gory_79420_1920x1200webp(lossy50%).webp
+![](images/lossy/Webp/zima_noch_gory_79420_1920x1200webp(lossy50).webp)
+
+### images/lossy/Webp/zima_noch_gory_79420_1920x1200webp(lossy75%).webp
+![](images/lossy/Webp/zima_noch_gory_79420_1920x1200webp(lossy75).webp)
+
+### images/lossy/Webp/zima_noch_gory_79420_1920x1200webp(lossy100%).webp
+![](images/lossy/Webp/zima_noch_gory_79420_1920x1200webp(lossy100).webp)
+
+### Снимок%20экрана%202025-03-09%20171532webp(lossy50%)/.webp
+![](images/lossy/MozJPEG/Снимок%20экрана%202025-03-09%20171532MozJPEG(lossy100).jpg)
+
+### Снимок%20экрана%202025-03-09%20171532webp(lossy75%)/.webp
+![](images/lossy/Webp/Снимок%20экрана%202025-03-09%20171532webp(lossy75).webp)
+
+### Снимок%20экрана%202025-03-09%20171532webp(lossy100%)/.webp
+![](images/lossy/Webp/Снимок%20экрана%202025-03-09%20171532webp(lossy100).webp)
 
 
 # Висновки по цьому завданню:
 Стиснення з втратами (MozJPEG, WebP lossy, AVIF) дає змогу суттєво зменшити розмір файлу, але потребує підбору оптимальних налаштувань, щоб якість зображення залишалася прийнятною. 
 
 
+# Orig зображення після переробки по завданню(Оптимізація розміру відповідно до цільового використання):
+| |1200px|600px|3x|
+|---|---|---|---|
+|001(resize).jpg|517 КБ|183 КБ|2.80 МБ|
+|zima_noch_gory_79420_1920x1200(resize).jpg|185 КБ|45.2 КБ|1,23 МБ|
+|Снимок экрана 2025-03-09 171532(resize1200px).jpg|91.3 КБ|28.7 КБ|566 КБ|
+
+
+# Зображення після переробки по завданню:
+# 1200px:
+### 001(resize1200px).jpg
+![](images/resize/1200px/001(resize1200px).jpg)
+
+### zima_noch_gory_79420_1920x1200(resize1200px).jpg
+![](images/resize/1200px/zima_noch_gory_79420_1920x1200(resize1200px).jpg)
+
+### Снимок%20экрана%202025-03-09%20171532(resize1200px).jpg
+![](images/resize/1200px/Снимок%20экрана%202025-03-09%20171532(resize1200px).jpg)
+
+
+# 600px:
+### 001(resize600px).jpg
+![](images/resize/600px/001(600px).jpg)
+
+### zima_noch_gory_79420_1920x1200(resize600px).jpg
+![](images/resize/600px/zima_noch_gory_79420_1920x1200(600px).jpg)
+
+### Снимок%20экрана%202025-03-09%20171532(resize600px).jpg
+![](images/resize/600px/Снимок%20экрана%202025-03-09%20171532(600px).jpg)
+
+
+# 3x1200px:
+### 001(resize3x1200px).jpg
+![](images/resize/3x1200px/001(resize3x1200px).jpg)
+
+### zima_noch_gory_79420_1920x1200(resize3x1200px).jpg
+![](images/resize/3x1200px/zima_noch_gory_79420_1920x1200(resize3x1200px).jpg)
+
+### Снимок%20экрана%202025-03-09%20171532(resize3x1200px).jpg
+![](images/resize/3x1200px/Снимок%20экрана%202025-03-09%20171532(resize3x1200px).jpg)
+
+
+# Висновки по цьому завданню:
+Зміна розмірів зображень відповідно до специфічних потреб (веб, мобільні пристрої, Retina-дисплеї) сприяє швидшому завантаженню та економії ресурсів. Наприклад, встановлення максимальної ширини 1200 px для веб-сайтів або 600 px для мобільних пристроїв дозволяє досягти оптимального балансу між продуктивністю та візуальною якістю.
+
+
+# Загальний висновок:
+Оптимізація зображень є важливою складовою ефективної роботи веб-ресурсів. Комбінування аналізу початкових характеристик, вибору правильного формату та налаштування стиснення, а також адаптації розміру зображень дає змогу досягти ідеального балансу між швидкістю завантаження сторінок та якістю відображення.
