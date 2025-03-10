@@ -8,8 +8,8 @@
 
 # Зображення:
 ## Original Зоображення до переробки:
-![Orig JPG](images/orig/001(orig).jpg)
-![Orig PNG](images/orig/001(orig).png)
+![Orig JPG](images/orig/001(orig).jpg"Orig JPG 001(orig).jpg")
+![Orig PNG](images/orig/001(orig).png"Orig PNG 001(orig).png")
 ![Orig JPG](images/orig/zima_noch_gory_79420_1920x1200(orig).jpg)
 ![Orig PNG](images/orig/zima_noch_gory_79420_1920x1200(orig).png)
 ![Orig JPG](images/orig/Снимок%20экрана%202025-03-09%20171532(orig).jpg)
