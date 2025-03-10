@@ -26,13 +26,12 @@
 ![Orig PNG](images/orig/Снимок%20экрана%202025-03-09%20171532(orig).png)
 
 ## Orig зображення після переробки по завданню(Стиснення без втрати якості (lossless)):
-|---|---|
-|001png(lossless).png|137 КБ|
-|001webp(lossless).webp|81,1 КБ|
-|zima_noch_gory_79420_1920x1200png(lossless).png|4,37 МБ|
-|zima_noch_gory_79420_1920x1200webp(lossless).webp|2,7 МБ|
-|Снимок экрана 2025-03-09 171532png(lossless).png|2,37 МБ|
-|Снимок экрана 2025-03-09 171532webp(lossless).webp|1,36 МБ|
+| |Orig PNG|Orig JPG|
+|---|---|---|
+|Формат|.png|.webp|
+|001png(lossless)|137 КБ|81,1 КБ|
+|zima_noch_gory_79420_1920x1200png(lossless)|4,37 МБ|2,7 МБ|
+|Снимок экрана 2025-03-09 171532png(lossless).png|2,37 МБ|1,36 МБ|
 
 ### 001png(lossless).png
 ![](images/lossless/001png(lossless).png)
