@@ -8,12 +8,18 @@
 
 # Зображення:
 ## Original Зоображення до переробки:
-![Orig JPG](images/orig/001(orig).jpg"Orig JPG 001(orig).jpg")
-![Orig PNG](images/orig/001(orig).png"Orig PNG 001(orig).png")
+![Orig JPG](images/orig/001(orig).jpg)
+### Original 001(orig).jpg
+![Orig PNG](images/orig/001(orig).png)
+### Original 001(orig).png
 ![Orig JPG](images/orig/zima_noch_gory_79420_1920x1200(orig).jpg)
+### Original zima_noch_gory_79420_1920x1200(orig).jpg
 ![Orig PNG](images/orig/zima_noch_gory_79420_1920x1200(orig).png)
+### Original zima_noch_gory_79420_1920x1200(orig).png
 ![Orig JPG](images/orig/Снимок%20экрана%202025-03-09%20171532(orig).jpg)
+### Original Снимок%20экрана%202025-03-09%20171532(orig).jpg
 ![Orig PNG](images/orig/Снимок%20экрана%202025-03-09%20171532(orig).png)
+### Original images/orig/Снимок%20экрана%202025-03-09%20171532(orig).png
 
 ## MultiTest JPG BS та результуючі (у тому ж порядку, що й у таблиці):
 ![](Переробка_jpg/MultiTest_JPG_BS.JPG)
