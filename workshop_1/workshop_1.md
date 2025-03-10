@@ -16,16 +16,17 @@
 ### Original zima_noch_gory_79420_1920x1200(orig).jpg
 ![Orig JPG](images/orig/zima_noch_gory_79420_1920x1200(orig).jpg)
 
-### Original Снимок%20экрана%202025-03-09%20171532(orig).jpg
+### Original zima_noch_gory_79420_1920x1200(orig).png
 ![Orig PNG](images/orig/zima_noch_gory_79420_1920x1200(orig).png)
 
-### Original zima_noch_gory_79420_1920x1200(orig).png
+### Original Снимок%20экрана%202025-03-09%20171532(orig).jpg
 ![Orig JPG](images/orig/Снимок%20экрана%202025-03-09%20171532(orig).jpg)
 
 ### Original images/orig/Снимок%20экрана%202025-03-09%20171532(orig).png
 ![Orig PNG](images/orig/Снимок%20экрана%202025-03-09%20171532(orig).png)
 
 ## Orig зображення після переробки по завданню(Стиснення без втрати якості (lossless)):
+|---|---|
 |001png(lossless).png|137 КБ|
 |001webp(lossless).webp|81,1 КБ|
 |zima_noch_gory_79420_1920x1200png(lossless).png|4,37 МБ|
