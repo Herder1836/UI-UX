@@ -7,4 +7,4 @@
 ![](images/Снимок%20экрана%202025-03-28%20113107.png)
 
 
-### Посилання на Figma студента:  [Figma](https://www.figma.com/design/hnX7HOVyNtIAMltkMHIvz3/workshop_5?node-id=0-1&p=f&t=6K2N9CdZyGfE9y8r-0)
+### Посилання на Figma студента:  [Figma](https://www.figma.com/design/go8xzIBGYYTQ8KQ6pmkLhO/workshop_5?node-id=0-1&p=f&t=d9QRPBa39rauijuG-0)
