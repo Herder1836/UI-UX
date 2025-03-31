@@ -11,15 +11,15 @@
 
 ![](images/Снимок%20экрана%202025-03-31%20121023.png)
 
-### Посилання на GitHab Завдання Basiс: [GitHab](https://github.com/Herder1836/UI-UX/tree/main/workshop_3)
-### Посилання на Figma Завдання Basiс: [Figma](https://www.figma.com/design/IKSW6guqxeP3UXMGd4NahK/workshop_6?node-id=0-1&p=f&t=tDo8DeBr9JTdaIXH-0)
+### Посилання на GitHab Завдання Medium: [GitHab](https://github.com/Herder1836/UI-UX/tree/main/workshop_6)
+### Посилання на Figma Завдання Medium: [Figma](https://www.figma.com/design/IKSW6guqxeP3UXMGd4NahK/workshop_6?node-id=0-1&p=f&t=tDo8DeBr9JTdaIXH-0)
 
 ## 3. Завдання Advanced по посиланню та фото:
 
 ![](images/Снимок%20экрана%202025-03-31%20121027.png)
 
-### Посилання на GitHab Завдання Basiс: [GitHab](https://github.com/Herder1836/UI-UX/tree/main/workshop_3)
-### Посилання на Figma Завдання Basiс: [Figma](https://www.figma.com/design/IKSW6guqxeP3UXMGd4NahK/workshop_6?node-id=0-1&p=f&t=tDo8DeBr9JTdaIXH-0)
+### Посилання на GitHab Завдання Advanced: [GitHab](https://github.com/Herder1836/UI-UX/tree/main/workshop_6)
+### Посилання на Figma Завдання Advanced: [Figma](https://www.figma.com/design/IKSW6guqxeP3UXMGd4NahK/workshop_6?node-id=0-1&p=f&t=tDo8DeBr9JTdaIXH-0)
 
 
 # Посилання на репозиторій та фігму студента:
